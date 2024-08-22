@@ -18,3 +18,5 @@
 
 # Spotify data directory
 data/
+# TODO: possibly remove this to show examples later
+examples/
